@@ -1,0 +1,4 @@
+.env
+grokenv/
+__pycache__/
+OAI_Vision_API_Tutorial.ipynb/
