@@ -20,7 +20,7 @@ pip install torch transformers gradio gtts
 Run the application using the following command:
 
 ```bash
-python app.py
+python gradio_interface.py
 ```
 
 This will launch a **Gradio interface** where you can upload or capture an image and get an AI-generated caption with speech output.
